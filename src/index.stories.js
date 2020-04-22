@@ -7,3 +7,4 @@ export default {
 };
 
 export const story_A = () => html` <my-counter></my-counter> `;
+export const story_B = () => html`Master`;
